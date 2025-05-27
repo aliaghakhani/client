@@ -15,7 +15,7 @@ function App() {
     <div style={{ textAlign: "center", marginTop: "50px" }}>
       <h1>Welcome to My World</h1>
       <img 
-        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5d8GmE4Qx_cPm_6CKbZ-WiT2qUI8aM9GQmA&s" 
+        src="https://imgcdn.stablediffusionweb.com/2024/10/28/46ed59ea-8517-4092-b8cb-da34423e54c5.jpg" 
         alt="Cute Cat" 
         width="400"
       />
