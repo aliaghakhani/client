@@ -13,9 +13,9 @@ function App() {
 
   return (
     <div style={{ textAlign: "center", marginTop: "50px" }}>
-      <h1>Welcome to My World</h1>
+      <h1>خوش آمدید به دنیای من </h1>
       <img 
-        src="https://imgcdn.stablediffusionweb.com/2024/10/28/46ed59ea-8517-4092-b8cb-da34423e54c5.jpg" 
+        src="https://i.pinimg.com/736x/1b/fc/e9/1bfce97a85aecdd0c0a0cd48348c15ef.jpg" 
         alt="Cute Cat" 
         width="400"
       />
